@@ -17,3 +17,5 @@
 #' @source \url{https://data.gov.au/}
 "locations.table"
 
+#' list of state names and their abbreviations
+"state.names"
